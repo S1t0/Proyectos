@@ -191,3 +191,20 @@ a {
 .caixa__card.cc__8 {
   background: linear-gradient(-229deg, #1472ff, #a8eb12);
 }
+.pie{
+  height: 4rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+.github,.instagram,.linkedin{
+  width: 20px;
+  height: 20px;
+  margin:5px;
+}
+.github,.instagram,.linkedin:hover{
+  cursor: pointer;
+}
+
+
